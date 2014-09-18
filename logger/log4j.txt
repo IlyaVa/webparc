@@ -1,0 +1,2 @@
+09:54:40,473 ERROR main EmployerStAXbuilder:buildWorker:106 - Unknown element in tag Workerjava.lang.IllegalArgumentException: No enum constant by.epam.parc.employerSaxBuilder.EmployerEnum.SFIRSTNAME
+10:09:05,644 ERROR main EmployerHandler:startElement:54 - Unknow tag :java.lang.IllegalArgumentException: No enum constant by.epam.parc.employerSaxBuilder.EmployerEnum.SFIRSTNAME
